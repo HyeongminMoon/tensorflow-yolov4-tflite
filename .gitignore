@@ -1,0 +1,6 @@
+Hat/
+Hat416/
+*.pb
+*.weights
+*.zip
+checkpoints/
