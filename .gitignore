@@ -4,3 +4,4 @@ Hat416/
 *.weights
 *.zip
 checkpoints/
+.ipynb_checkpoints/
